@@ -7,6 +7,8 @@ This is a Node.js/Express web application that provides autocorrect and spell-ch
 3. Go to the terminal and run the command `npm start`.
 4. Open your browser and load [http://localhost:3000](http://localhost:3000).
 
+⚙ Check out [https://textgears.com/](https://textgears.com/) to generate your own API key
+
 ## Screenshots
 <img width="2086" height="1424" alt="localhost_3000_home (2)" src="https://github.com/user-attachments/assets/7f1354cf-1daa-4913-837d-91162191c515" />
 <img width="2086" height="1424" alt="localhost_3000_home (1)" src="https://github.com/user-attachments/assets/02305dfa-b1a0-498f-984a-581133c5ba2f" />
@@ -26,8 +28,6 @@ This is a Node.js/Express web application that provides autocorrect and spell-ch
 - Clean and simple UI design
 - Auto correct text
 - Automatic suggestions based on words provided
-
-⚙ Check out [https://textgears.com/](https://textgears.com/) to generate your own API key
 
 ## Project Status
 This project is no longer actively maintained. It exists as an archive of my web dev work from 2023.
